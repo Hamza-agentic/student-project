@@ -35,3 +35,8 @@ student_project/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
+Updated README section
+# Student Information Application
+A modular Python project developed following professional
+software engineering principles and standard project structures.
